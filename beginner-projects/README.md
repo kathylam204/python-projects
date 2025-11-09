@@ -4,7 +4,7 @@ Welcome to my beginner projects! These are the projects I took on to relearn and
 ## List
 - [Guess The Number -Computer-](https://github.com/kathylam204/python-projects/blob/main/beginner-projects/guess-the-number-comp.py)
 - [Guess The Number -User-](https://github.com/kathylam204/python-projects/blob/main/beginner-projects/guess-the-numbers-user.py)
-- [Mad Lib -Simple-]()
+- [Mad Lib -Simple-](https://github.com/kathylam204/python-projects/blob/main/beginner-projects/mad-lib.py)
 - [Password Generator -Simple-]()
 - [Rock Paper Scissors]()
 - [Temperature Converter]()
