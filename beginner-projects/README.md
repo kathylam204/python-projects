@@ -2,6 +2,7 @@
 Welcome to my beginner projects! These are the projects I took on to relearn and understand python again.
 
 ## List
+- [Base Converter](https://github.com/kathylam204/python-projects/blob/main/beginner-projects/base-converter.py)
 - [Calculator](https://github.com/kathylam204/python-projects/blob/main/beginner-projects/calculator.py)
 - [Dice Roller](https://github.com/kathylam204/python-projects/blob/main/beginner-projects/dice-roll.py)
 - [Grade Calculator](https://github.com/kathylam204/python-projects/blob/main/beginner-projects/grade-calculator.py)
