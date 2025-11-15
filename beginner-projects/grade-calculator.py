@@ -49,8 +49,8 @@ def main():
 
     while True:
         print("\n~Grade Calculator~")
-        print("1. Enter grades and get your average.")
-        print("2. Exit")
+        print("1) Enter grades and get your average.")
+        print("2) Exit")
 
         choice = input("Enter your choice: ")
 
